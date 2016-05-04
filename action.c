@@ -14,7 +14,7 @@
 #include <signal.h>
 #include <time.h>
 
-#define BUTTON_START 20
+#define BUTTON_START 20 
 #define LED_START 16
 
 #define BUTTON_1 19
